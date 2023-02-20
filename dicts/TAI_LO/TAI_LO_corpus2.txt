@@ -269,7 +269,7 @@ tsí-put-kò kah it-puann-lâng ún-ún tsāi-tsāi ê iūnn-siùnn khah bô kâ
 m̄ pat thiann-kè i kóng-uē,
 kan-na tshuì--nngh huat tshut i-i ah-ah ê siann.
 lâng nā pun i tsînn,
-i ē tìm-thâu ah nn̄g siann ká-ná '謝謝' ê im.
+i ē tìm-thâu ah nn̄g siann ká-ná '' ê im.
 tàu-tué sī m̄ sī án-ni,
 guá mā bô tsin tsai.
 tsiah-nī tsuē tang lâi,
@@ -2159,7 +2159,7 @@ Bí-kok kin-nî suán-kí,
 lâng mā kóng sī Tshuan-phóo ê kî-tiong-khó,
 án-ne lán tio̍h lâi khuànn Tshuà tsìng-hú ê kî-tiong-khó sîng-tsik-tuann.
 thâu-sing lâi kóng tē-it tiunn ê sîng-tsik-tuann,
-tō sī kun kong kà tsa̍p-peh ％ ê kái-kik,
+tō sī kun kong kà tsa̍p-peh ê kái-kik,
 i hōo siā-huē kok kai-tsàn khah kong-pênn,
 hōo sè-tāi tsi-kan khah kong-pênn,
 tse sī hui-siông hó ê sîng-tsik-tuann.
@@ -4211,7 +4211,7 @@ tshoo kóo í-king liáu kuí-nā tsa̍p-ik ê tsu-sán,
 iā tiō sī kóng tsit pue ka-pi,
 kìng-liân kè-ta̍t sòo tsa̍p-ik--ooh!
 uē koh kóng tò-tńg--lâi,
-lán mā sī tsuân sè-kài siōng-kài kî-kuài kap "阿Q" ê kok-tōo,
+lán mā sī tsuân sè-kài siōng-kài kî-kuài kap "Q" ê kok-tōo,
 bîng-bîng tsai-iánn tuì-hong sī bô iú-siān, koh siūnn-beh kā lán thiah-tsia̍h-lo̍h-pak ê kok-ka,
 phian-phian tsi̍t-kuá sing-lí-lâng ài tsînn, tshiong gia̍p-tsik,
 lóng m̄ kiann ū sènn-miā hong-hiám.
@@ -4650,7 +4650,7 @@ nā-sī kè-tio̍h tshin-tshiūnn ke án-ne,
 suî peh--lì tiō lo̍h--lâi--ê,
 mā ài khah jím-nāi--leh;
 nā-sī kè-tio̍h tshin-tshiūnn káu án-ne,
-peh--起-lì tō tsiok kú lóng m̄ lo̍h--lâi--ê,
+peh---lì tō tsiok kú lóng m̄ lo̍h--lâi--ê,
 mā ài jím-nāi."
 "ah lí sī ke a̍h-sī káu?"
 ( sì )
@@ -6384,7 +6384,7 @@ koh ū i-sing-tseh,
 Tsiúnn Uī-suí iah-sī Luā Hô i-su lóng sī tsin tsán ê tsham-khó jîn-suán,
 thang iōng in ê senn-ji̍t lâi kì-liām.
 mā ìng-kai khó-lū guân-tsū-bîn ê tseh-ji̍t,
-tshin-tshiūnn Mona Rudo （『莫那魯道』）ê senn-ji̍t, kheh-ka-lâng ê Thian-tshng-ji̍t,
+tshin-tshiūnn Mona Rudo （『』）ê senn-ji̍t, kheh-ka-lâng ê Thian-tshng-ji̍t,
 lâi tshòng-tsō lán ka-tī ê kám-un-tsiat.
 uī-tio̍h beh an-uì tsiàn-āu tuì Tiong-kok lâi ê î-bîn,
 kuí ê sio̍k hàn bûn-huà ê tseh-ji̍t,
@@ -7471,7 +7471,7 @@ ji̍t-ji̍t siūnn-beh kah lí siong-huē,
 ah-sī tán-thāi lí ê ban-á-kiánn,
 sè-kan tsik-jīm uân-buán,
 tsiah lâi sio-tshuē.
-Thê-sī khá pian-hō : TA_零零一零
+Thê-sī khá pian-hō : TA_
 It. Sòo-jī
 suà-lo̍h-lâi khuànn tsiong-huà-kuān bîn-á-tsài tsa̍p-káu hō ê thinn-khì
 un-tōo tsa̍p-la̍k tsì tsa̍p-káu tōo, lo̍h-hōo ki-lu̍t peh-tsa̍p percent
@@ -8876,7 +8876,7 @@ suah bô tsiàu bîn-sū sòo-siōng tîng-sū,
 iau-kiû A-nî hîng thóo-tē,
 koh tián-hān hōo in kè-sio̍k sú-iōng,
 tsìng-tshik si̍t-tsāi sī tshia-pua̍h-píng.
-jî-tshiánn tsit ê khòng-khu tsi̍t-pah ％ kah guân-tsū-bîn pó-liû-tē tîng-tha̍h,
+jî-tshiánn tsit ê khòng-khu tsi̍t-pah kah guân-tsū-bîn pó-liû-tē tîng-tha̍h,
 kuān-tsìng-hú bô tsiàu "Guân-tsū-bîn-tso̍k Ki-pún-huat" tē-jī-tsa̍p-it tiâu ê kui-tīng,
 kah guân-tsū-bîn pōo-lo̍k tsham-siông,
 hōo in tông-ì ia̍h tsham-ú thó-lūn,
@@ -14135,7 +14135,7 @@ Lán m̄-thang uī huán-tuì lâi huán-tuì.
 lán it-tīng ē-tàng tsuè tsi̍t-ê hīng-hok ê Tâi-uân-lâng
 buē--lah,he sī Bí-kok,Soo-liân kah Ji̍t-pún,
 uī-sing khuân-kíng khah bái ê nî-tāi,
-i tshin-tshiūnn tsit-má ê"簡易急救箱",
+i tshin-tshiūnn tsit-má ê"",
 kui tsng-thâu tshuē-bô tsi̍t-king tsín-sóo kah io̍h-pâng.
 Tī sann nî-guā tsîng in ang kuè-sin liáu-āu,
 tiō it-ti̍t ka-tī tsi̍t-ê-lâng tuà tī Ngôo ka tsóo-tshù hōo-liông bué ê pán-á tshù lāi-té,
@@ -14400,7 +14400,7 @@ Guá gia̍h siang-tshiú tsàn-tông,
 kàu siāng-lo̍h-bué kuat-tīng ū tsi̍t tshut tinn-lōo,
 pit-kìng sim-lîng-siōng ê hí-ia̍t khah iânn-kuè tsia̍h tinn-lōo ê pāi-hāi kah khiūnn-tshuì ê thua-buâ.
 tik-sit-tio̍h tē-hng sióng ê lôo-muâ ok-pà,
-維他露,piànn Tâi-gí,siōng-kài ū ì-gī
+,piànn Tâi-gí,siōng-kài ū ì-gī
 Kóo-tsá Lán ê tsóo-sian tik-ko tàu tshài-to kah Ji̍t-pún-ping ê iûnn tshiunn,tuā-phàu tshia-piànn,
 bo̍k-kuài ē hāi lâng bô sènn-miā,
 uī-tio̍h tsit-ê kòo-sióng,
@@ -14458,7 +14458,7 @@ tian-tò ná-tshiūnn tsi̍t-lia̍p suann puânn-kuè līng tsi̍t-lia̍p suann,
 Gún khai-sí kiann-hiânn khí-lâi.
 tsia-ê khang-khuè nā-sī lâng lâi tsò,
 Tuā sòo-kì,Tsu-sìn an-tsuân kah jîn-kang tì-huī tsit sann hāng mi̍h,
-Kuè-khì ū tiān-iánn"全民公敵"kah"天眼行動"thang tsò lán sióng-siōng ê tsham-khó.
+Kuè-khì ū tiān-iánn""kah""thang tsò lán sióng-siōng ê tsham-khó.
 Tsîng Bí-kok Tiong-iong tsîng-pò-kio̍k tsit-guân Edward Joseph Snowden tô-lān khì Hiong-káng,
 hông bô-huat-tōo khuànn tshing.
 tshia-tíng nn̄g-ê suí koo-niû,ba̍k-tsiu tsin ua̍h-tāng
@@ -14602,7 +14602,7 @@ tō ē-tàng khan-khì lán tī bāng-lōo tíng-kuân"Tsu-sìn an-tsuân"ê bū
 kong-sik tshē--tshut-lâi,koh kā thò --tńg-khì,
 jīm-hô tāi-tsì piàn-kah tsiânn kán-tan,
 tō tshin-tshiūnn hit-tâi"ē kíng thôo-tāu"ê tiān-náu.
-Tiong-kok"天網"hē-thóng koh sī tsi̍t-ê lē,
+Tiong-kok""hē-thóng koh sī tsi̍t-ê lē,
 mā bē-khì siūnn tse tuì kò-jîn an-tsuân ū-siánn íng-hióng,
 koh-khah hāi--ê,
 Tsē hué-tshia,kuè pōng-khang,sim-tsîng tsin khin-sang
@@ -15053,7 +15053,7 @@ khì-hāu liâng-líng kāu hōo-tsuí,
 mā ū hip-tio̍h pe̍h-līng-si ê sin-iánn tsuè puē-kíng.
 tú-beh lī-khui ê sî-tsūn,gún hiông-hiông siūnn-tio̍h:
 tio̍h mài koh kheh-khì-lah!
-m̄-nā ū tshiau-kuè gōo-tsa̍p bān lâng tsiūnn Tsóng-thóng-hú-tsîng ê 凱達格蘭 tuā-tō lâi sio-thīn tsi-tshî,
+m̄-nā ū tshiau-kuè gōo-tsa̍p bān lâng tsiūnn Tsóng-thóng-hú-tsîng ê tuā-tō lâi sio-thīn tsi-tshî,
 Ē-poo gún tio̍h tsham thâu-ke sio-sî,
 uán-jiân tshiūnn tsi̍t tsiah khiā--khí-lâi ê tsûn,
 tiō í-thâu-á giâ leh,uî tī tuā-tshiū-kha,
@@ -15151,7 +15151,7 @@ lán kui-ke-kháu-á ē kiān-khong pîng-an,
 tsiah-nī sù-sī --ah --honnh?"
 tiō ū bián-tsînn ê si̍t-bu̍t thang tsia̍h.
 Tsuân tsing-sîn tsuè-khang-khuè,kuán-lí uân-kang;
-kám-kóng"代溝"sī tsit-khuán ê kái-sueh.
+kám-kóng""sī tsit-khuán ê kái-sueh.
 m̄-koh kiànn-thâu-lāi ê hái ōo suah piàn tsiok sè luí,
 Thâu-ke huan-hù ta̍k-ke ài tshīng tsháu-ê khah bē pua̍h-tó,
 tsuè-āu ti̍k-pia̍t kau-tài kóng:lâi-kàu tsia tshit-thô --tio̍h,
@@ -15197,7 +15197,7 @@ Tiō tiau-kang kā i sàng-khì tsi̍t-ê tsin sàn-tshiah ê tsng-kha tuà tsi�
 tsuí-tî-á lāi ê tsuí-ke kiò-siann tshin-tshiūnn phah ki-kuan-tshìng"tap─tap──tah",
 ū khó-lîng ē koh khai-tshòng līng-guā tsi̍t-phìnn-thinn.
 Káu tsa̍p-huè ê a-pah khà-tiān-uē kóng"Lín tsit lé-pài ē tńg-lâi kuè-mî?
-iau-kiû"開運鑑定團"ê tsuan-ka kàm-tīng,
+iau-kiû""ê tsuan-ka kàm-tīng,
 tshiùnn kah tsin lāu-jia̍t.
 the̍h tsi̍t pak tsiânn tin-kuì ê tsóo-thuân bîng uē tsiūnn tsiat-bo̍k,
 tsiah kám-kak,"Thàn-tsînn iú sòo,sìnn-miā ài-kòo",
@@ -15551,7 +15551,7 @@ Pháinn kue kāu-tsí,pháinn tsa-bóo kāu giân-gí.
 Káu tǹg bí-ko bô tsiūnn sǹg,tsi̍t tǹg líng muê khioh khí-lâi khǹg.
 he sī ē hōo lâng kiann,
 lâi-kóng gún hit-ê iap-thiap ê tsng-kha,
-Bí-kok tsóng-thóng 歐巴馬 ē tòng-suán;
+Bí-kok tsóng-thóng ē tòng-suán;
 Tiō-sī the̍h bē tshut ióng-khì.
 tuì hāu-hn̂g ê bú-gí tsîng-kíng pòo-tì,
 Koh,i mā-sī tsi̍t-ê tshù-bī sim-sik ê lâng,
@@ -15871,7 +15871,7 @@ kuán-thāi i oo ke-bú,pe̍h ke-bú,ia̍h-sī hue ke-bú,
 Tsit-hō to̍h-sī sing-bu̍t kah bûn-huà ê kiōng-tông ián-piàn!
 I sing thóo tsi̍t-pîng pīnn hōo hó,
 tsū-jiân khiû ê thâu-mn̂g,tsún nā-bô kài tsē,
-kàu guá ko-tiong khai-sí tsia̍h-thâu-lōo tsiah tsai-iánn guân-lâi Huâ-gí sī"房屋仲介".
+kàu guá ko-tiong khai-sí tsia̍h-thâu-lōo tsiah tsai-iánn guân-lâi Huâ-gí sī"".
 bē-su beh khì siû-tsuí leh!
 Tāi-tsì mā-sī tshiūnn gōng-lâng sóo siūnn ê tsiah kán-tan,
 kóng tsit-khuán pì-bi̍t uē sī beh kah guā-lâng ū tsit-ê kài-suànn,
@@ -15906,7 +15906,7 @@ Kin-á-ji̍t thàu-tsá bîn-bāng,
 sio-iok tshù-pinn-keh-piah lâi-khuànn piàn huat-su̍t,
 bueh thiann káu lê-siann,
 tshiánn lín tsim-tsiok thiann:
-siōng tsú-iàu ê thàn tsuí huà ha̍h mi̍h sī ling thn̂g(lactose,‘乳糖’),
+siōng tsú-iàu ê thàn tsuí huà ha̍h mi̍h sī ling thn̂g(lactose,‘’),
 tsia̍h gû-ling tsin ū khó-lîng sī tiong Au tāi-sing,
 lim gû-ling iû guân-iú tsi̍t-pōo bái──buē-tsió lâng gû-ling lim-liáu ē làu-sái!
 In-uī gû-ling lāi-té,
@@ -19782,7 +19782,7 @@ si̍t-tsāi sī tsi̍t-hāng bô hó ê ka-kàu.
 kái-tsè liáu-āu ê tuā pēnn-īnn,
 Kin-á-ji̍t ê ián-tshut sī í pî-pê , hiân-á uî-tsú ,
 Sui-jiân tsit-ê khùn-lân tsin oh kái-kuat ,
-thâu-moo tshiah âng , tsi̍t tshok tsiam-tsiam kuân --起 lih , ná hué-suann tuā po̍k-huat .
+thâu-moo tshiah âng , tsi̍t tshok tsiam-tsiam kuân -- lih , ná hué-suann tuā po̍k-huat .
 si̍t-tsāi hōo i him-siān ka̍h.
 liōng-iok lîng tiám la̍k kong-lí tsiah kàu ting suann kháu.
 Liáu-āu khó-tio̍h tsìng-sik --ê,
@@ -21532,7 +21532,7 @@ lóng bô hôo-sîn,báng-á tio̍h bāng,
 Tī liān kha-la̍t,Kuānn lâu ta̍p-tih ê khám-tsām,
 Tâi-uân tōng-bu̍t kì-sū — — Oo-bīn-lā-pue
 ku tī tshân lí hit nn̄g,sann ê gín-á,
-Bô-tshái tsi̍t-ê thâu-lōo kú-kú tsiah ín --tio̍h , buē-tsîng siōng-pan tō sî-sî --掉 .
+Bô-tshái tsi̍t-ê thâu-lōo kú-kú tsiah ín --tio̍h , buē-tsîng siōng-pan tō sî-sî -- .
 khah thiànn káu-á hóm hóm,
 Lí hì-kńg bái , kuann mā bô hó , hun siōng-hó m̄-thang tsia̍h , tsiú mā buē-sái lim .
 "tsa̍p-nî sîng tsi put-tsiok,it tiau pāi tsi iú û"ah!
@@ -21606,7 +21606,7 @@ kám-ū siánn-khuán mi̍h-kiānn,ē-tàng hōo lâng tsia̍h-liáu sim-thâu p
 lân-bián tiō ē ū ta̍p-ta̍p-tih-tih--ê pí,
 kha-tshng-táu pênn-pênn nā tsi̍t-tè lōo kuan pâi ,
 Íng-hióng--tio̍h in sing-ua̍h ê guân-in ,
-thiàu --起 lih kā A-kiat moh --leh , ti̍t-ti̍t tshiong , tsò in khì .
+thiàu -- lih kā A-kiat moh --leh , ti̍t-ti̍t tshiong , tsò in khì .
 Tsi̍t khián puī iánn , pah khián puī siann .
 in-uī khui-tshia khah síng sî-kan,koh bián pha̍k-ji̍t,siàn-hong,lâm-hōo,
 lûn uī phian-uán tē-khu kong-iōng tiān-uē phóo-ki̍p ho̍k-bū
@@ -22179,7 +22179,7 @@ bô-siánn khì-phik , bô-kàu tshì-kik .
 Tsìn kú m̄-bat khuànn guā-tâi-hì--ah ,
 Khah làng-phāng ê sî,mā ke-kiám tsò Tsi̍t-kuá tshiú-kang,thiam póo tshù lí sóo-huì,
 Suà--lo̍h-lâi kàu-siū koh khuànn-tio̍h guá līng-guā tsi̍t phinn ha̍k-si̍p sim-tik ,
-ná-ū khuànn kong-sī"奇蹟的女兒"ián--ê,
+ná-ū khuànn kong-sī""ián--ê,
 Thê-sī khá pian-hō:UNK
 Tē-it sī tē-piáu ta-sang,hâm ū tāi-liōng ê sua tîn bu̍t-tsit;
 Ǹg-bāng ta̍k-ke tsiàn-lio̍k sio-siâng ê iú-tsì,
@@ -22360,7 +22360,7 @@ Tse mā-sī kóo-tsik neh !
 tn̂g-kî thui-sak Tâi-gí-bûn ūn-tōng-ê Lí Kang-khioh Tâi-gí Bûn-kàu Ki-kim-huē tsú-tiunn tsit-guân sin-suí ài pí guā-kháu khah kuân,
 Tshit-gue̍h jī-gōo ,
 tō ē hōo i mē kah tshàu-thâu,kóng:"Lí ooh!
-ná lîng-tî 削 bah án-ne,bān-bān-á hōo sí,
+ná lîng-tî bah án-ne,bān-bān-á hōo sí,
 ìng-kai ài ū ê tì-sik , lîng-li̍k kah thāi-tōo .
 a-ná tsiàu kui-keh, tshùn-tshioh lo̍h-khì kù --tshut-lâi,
 tsi̍t khu-hun peh ê hô-lîn-tāu tshân,
@@ -22885,7 +22885,7 @@ Lâm-tó gí-giân kap bûn-huà hōo Tâi-uân ê bûn-huà ngóo-hue tsa̍p-si
 king it sū,tiông it tì.
 lâng bē kàu,siann sing kàu,
 kuánn-kín beh pòo-tì tsng thānn.
-khuànn --是 ē-káng lâm-pōo lâi--ê .
+khuànn -- ē-káng lâm-pōo lâi--ê .
 Ku senn-tsò tsin bái,kiânn-lōo sô-sô,
 Sū-si̍t Ji̍t-pún hok-siā u-jiám tsá tō tuā-tuā tshiau-kuè Tē-tshit kip ê liōng.
 iû-kî sī too-tshī bô-liâu ê àm-mê,
@@ -24215,7 +24215,7 @@ Sui-bóng king-kuè kuí-nā-tsa̍p tang,guá iu-guân koh kì-tiâu-tiâu
 Guá ê hōo-tsiàu hō-bé sī jī sù jī sù pat ngóo jī ngóo sù
 Gôo-lo̍k ka-tī ngôo-lo̍k pa̍t-lâng,
 kiàn-gī tio̍h-ài tsù liû-kám i̍k-biâu .
-跆kûn tō,sī lán kok-ka tāi-piáu-tuī tit tsióng-pâi ê hi-bāng;
+kûn tō,sī lán kok-ka tāi-piáu-tuī tit tsióng-pâi ê hi-bāng;
 tsi̍t-nî suá-tsai,sann nî khiā-n̂g.
 Bián--lah!io̍h-á ē-kì-tsit tsiàu sann-tǹg tsia̍h oo,
 sī tsin sù-siông khuànn-ē-tiō ê tsi̍t-khuán tshiū-á .
@@ -24615,7 +24615,7 @@ liân-suà hioh nn̄g-kang ,
 Tshiánn lí āu-sì tsiah lâi kiû.
 khuànn in a-pah lóng bô kóng-uē,tsin kiann i m̄ tah-ìng.
 tsio̍h-iû uî-ki guá ū kám-kak--tio̍h,
-sóo-í Guá kiàn-gī 『駕駛』í-āu ài kóng『駕開』.
+sóo-í Guá kiàn-gī 『』í-āu ài kóng『』.
 it-tīng ē tī tsuân-sè-kài bīn-tsîng tshiò-phuà lâng ê tshuì !
 hōo guá tsiânn m̄ kam-guān lâi lī-khui ka-pi-tiàm;
 Tha̍k tshing bûn ê sió-suat hōo guá tī ka-pi-tiàm lāi-té ài put-sam-sî iōng bûn-kó lâi tsa̍h bīn,

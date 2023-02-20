@@ -1371,7 +1371,7 @@ sī tsi̍t kiānn tsin bô kán-tan ê tāi-tsì .
 suann-á tē tsuân sī tuā tsio̍h-thâu , ku̍t tsi̍t tsân koh tsi̍t tsân ,
 m̄-koh nā tsim-tsiok khì kā sǹg ,
 tong-tshe-sî , tse suann --nih mā bô-lâng tuà ,
-Tsim-tsiok lāi-bīn ū siang " 囍 " .
+Tsim-tsiok lāi-bīn ū siang " " .
 m̄-koh kóng-tio̍h phòng-hong I ê hîng-uî si̍t-tsāi tsiok bô ing-kai--ê .
 hit-ê kóng sī phòng-hong ê lú-pîng-iú ê koo-niû-á , tī tuì-bīn ê hāng-á-kháu ta̍uh-ta̍uh-á kiânn hiòng in sann ê lâng !
 kah lán leh iōng ê tshâ ìn-á beh pênn tuā ,
@@ -1771,7 +1771,7 @@ Kóng bóng kóng , mā-sī bô-lâng tsin tsai .
 senn-thuànn sing-ki .
 kong-lîng kah lîng sik hui-ki sio-kāng ,
 Phian-phian tsit-kiānn tsiok hàm-kóo --ê,
-Bô , mā tio̍h tshìn-tshái pê --兩 tshuì ah ,
+Bô , mā tio̍h tshìn-tshái pê -- tshuì ah ,
 liâng-sè liâng-sè ,
 sing-ua̍h huān-uî sok-sió ,
 A-ping-ko , lí tio̍h thiann guá kóng ,
@@ -2197,7 +2197,7 @@ Tsa-poo tshīng ê ba̍k-kia̍h ka-tī thâi ,
 Tse sī tsin hiān-si̍t ê būn-tê ,
 kóng " uī-sing " si̍t-tsāi sī bô tsìng-king .
 guá tsí-sī kā sū-si̍t kóng--tshut-lâi niâ , kám-kóng guá ū kóng m̄ tio̍h--ooh ? "
-Ông --舍 , tsit kuí khu tshân tsū-kóo tō sī gún ê ,
+Ông -- , tsit kuí khu tshân tsū-kóo tō sī gún ê ,
 Lí tiō tsai , Tâi-uân ê thinn-tíng sî-siông to oo tsap tsap ,
 kàu-io̍k-pōo tsit kò gue̍h tshe-tsa̍p ,
 Bô-lūn kuí huè khû lo̍h peh khí lóng tsin liú-lia̍h .
@@ -3175,7 +3175,7 @@ I ū kah " lo̍k-sinn gī-tê " siá tī nn̄g kong-iok
 ē tsah guá kah-ì tsia̍h ê sì-siù-á tńg-lâi tsè guá sió-sió ê ngóo-tsōng biō ,
 beh-tsai siánn-mih tāi-tsì ,
 sok-pa̍k tsū-iû huat-tián ,
-tsok-tsiá : Lîm 綉 huâ
+tsok-tsiá : Lîm huâ
 beh ti̍h lâng senn làu-the ê gín-á thai ,
 tô-tshut Kán-poo-tsē , tô huê pún-kok ,
 tī-hia"tsi̍t-ke tshin"ké-kuí-ké-kuài,
@@ -3752,7 +3752,7 @@ Tuà a sì khenn ê ha̍k-sing,
 Tiong-san i Tâi-gí hē kin-nî khai-sí thîng-tsí tsiau-sing ,
 tsi̍t kha tik-bi̍h-á pīnn--ê ê nâ-á ,
 koh hū-tsik tī i-ha̍k hē khui " i-ha̍k Tâi-bûn " ê khò ,
-Siáng ? òo , sī Ông --舍 ! Nah hiah hán-kiânn ?
+Siáng ? òo , sī Ông -- ! Nah hiah hán-kiânn ?
 tsáu kàu Kán-poo-tsē ê mn̂g-kha-kháu ,
 tōo-kâu , hánn ke .
 kin-nî it--gue̍h tsham-hóng lo̍k-sinn-īnn,
@@ -4257,7 +4257,7 @@ Jîn-bu̍t: Tiong-iong Gián-kiù-īnn Tâi-uân-sú Gián-kiù-sóo gián-kiù 
 tsi̍t ê tsiânn tsa̍p, tsa̍p-guā-huè-á ê gín-á-tsai,
 Kun-tsú lo̍k-phik, pín-tann ku-lí.
 tì-kàu āu--lâi huat-sing Lī-lī-pat, Tshing-hiong, Pe̍h-sik Khióng-pòo,
-it lâi jī khì, tē-lí bô kâng, bûn-huà koh-iūnn ‧ ‧ ‧ ‧ ‧
+it lâi jī khì, tē-lí bô kâng, bûn-huà koh-iūnn
 hōo Tâi-gí hue-ho̍k uân-tsuân ê sènn-miā-la̍t,
 Hit tsiah to̍k-giat su-iàu ku kā i tsài-kuè khe-lâu, ku m̄,
 Sī, tsiàu ông ê ì-sù.
@@ -5138,7 +5138,7 @@ in khì tshuē ok kah bô lâng mn̄g ê sat-lîn-huān tsò hóng-būn,
 suah lâi tuī-tiông,
 kā Tâi-uân pún-té ê bí-lē hun-hióng--tshut-lâi.
 Bûn-huà sī thîng-hiān li̍k-sú ê kiànn-thâu,
-好, tshiūnn kà án-ne,
+, tshiūnn kà án-ne,
 ta̍k-kang tiō ē tann-tio̍h i hit tànn kê,
 liōng-iok nn̄g-pah kong-tshioh khǹg bah-tsàng-kak,
 Uan ji̍p-khì tsi̍t tiâu hāng-á-lāi.
@@ -5384,7 +5384,7 @@ Teh kà Tâi-gí ê hit kuí nî.
 koh ū tshing-liâng pinn tinn ê bí-thai-ba̍k hiān kā tsia̍h--lo̍h,
 hó --ah. Tann-á siūnn-beh kā lí kóng Tik-á-ôo ê tsí-iông-hue tng-leh khui --neh!
 Guá khuànn-māi--leh, he Pînn-khe --lah.
-吳哥窟 ê tsa-poo gín-á──su-khó sòo-ióng tshuā-thâu ê Tâi-gú kàu-io̍k
+ê tsa-poo gín-á──su-khó sòo-ióng tshuā-thâu ê Tâi-gú kàu-io̍k
 Tâi-uân mā bat ū tsi̍t ê "ji̍t tng kiā huan-ông",
 beh tuì tsìng-hú kuann-uân hām gī-uân, li̍p-huat uí-uân ê tuì-uē,
 bú-gí liû-sit ê sok-tōo tsiah-nī kiann--lâng,
@@ -6686,7 +6686,7 @@ guá beh pòo-tap a-má ióng-io̍k --guá ê un-tsîng,
 thàu-gi̍t tī guā-kháu phun-phoo tsáu-tsông,
 Hit-sî piān-nā pài-la̍k lé-pài-á,
 bô tīng-kî lâi "tām-sám" --tsi̍t-ē.
-tiānn-tiānn thiann tsiok tsē lâng khì 吳哥窟 sńg,
+tiānn-tiānn thiann tsiok tsē lâng khì sńg,
 Guá tsi̍t ha̍k-kî ē-sái kà tsa̍p-kuí siú Gōo-pah ê Tâi-gí-kua,
 kóo-bú khì hia sńg ê lâng bé i ê mi̍h-kiānn.
 hū-jîn-lâng huann-thâu-hí-bīn tsham lāu-lâng sio-tsioh-mn̄g,
@@ -6854,7 +6854,7 @@ tsí-sī lán hó-ūn bô tú-tio̍h hit ê "ki-huē"?
 bô liáu-kái "ke o̍h tsi̍t ê gú-giân, ke tsi̍t lia̍p thâu-khak,
 hiān-si̍t ê sing-ua̍h mā sī tio̍h kuè.
 hōo ka-kī tsi̍t-ê-á khong-kan,
-tsi̍t ê 柬埔寨吳哥窟 teh bē kì-liām-phín ê tsa-poo gín-á,
+tsi̍t ê teh bē kì-liām-phín ê tsa-poo gín-á,
 ta̍k-ke kheh-kheh tsò-tsi̍t-hué,
 koh tsiong tse hūn un-tsîng kā thuân--lo̍h-khì.
 ū tshâ-tshiū-á ê sóo-tsāi hōo ki-bué ê hio̍h-á kah tshinn-tshuì niâ,
@@ -7360,7 +7360,7 @@ Tī guá á-buē tha̍k-tsheh tsìn-tsîng ,
 siang-gí kàu-io̍k ū nn̄g khuán ,
 piàn tsò " báng-á kuán " ;
 "Sam-pat tsa-bóo, ài mē-lâng--uē!"
-kong-kíng bē-su tsi̍t pak tôo--neh, thiann-bô khe tsuí-siann‧‧‧
+kong-kíng bē-su tsi̍t pak tôo--neh, thiann-bô khe tsuí-siann
 tài-sian,i ê pò-miâ huì phóo-phiàn pīng pa̍t-lâng khah síng,
 tsē Ha-má-sing bûn-huà kong-tshia siōng tú-hó ,
 Siang-gí kàu-io̍k tsāi Tâi-uân
@@ -8500,7 +8500,7 @@ tuì ah-pà ê tông-o̍h kóng-tshut sim-lāi-uē:
 Tshiūnn guá ê kap-á-siû,sí-gín-á-the tō-sī tī tsia kah pá-pah o̍h--lâi --ê.
 tsok-tsiá:Tân Kim-sūn
 I tī it kiú sù sù nî tshut-sì
-sio-sio‧‧‧sio-sio, tuā-ji̍t hóo sio-sio-sio‧‧‧
+sio-siosio-sio, tuā-ji̍t hóo sio-sio-sio
 Tsîng kuí kò gue̍h ū hia̍p-huē siūnn-khang-siūnn-phāng beh tô siám sin huat,
 " pàng-sái bô tshit-kha-tshng " iân-sin ê ì-sù ,
 "ài-hōo ba̍k-tsiu Hioh-khùn--tsi̍t-ē."
@@ -9283,7 +9283,7 @@ nā kā miâ-tshing kái-tiāu,
 tse kánn-kóng bô-kàu tsē? Uī-siánn-mi̍h Ing-gí iáu-sī li-li-lak-lak?
 hit-tsūn guá tio̍h siūnn-kóng nā-sī tsin-tsiànn ke-bú khì tú-tio̍h bā-hio̍h,
 tio̍h-sī bó-gí kap Ing-gí ê siang-gí kàu-io̍k ,
-lí‧‧‧lí ū kám-kak tse thôo-kha sio-sio--bô?
+lílí ū kám-kak tse thôo-kha sio-sio--bô?
 Lí nā mn̄g-kóng sè-kan siánn-mi̍h siōng jiû-nńg,
 Kam-tsià huat kah tsin kuân.
 in-uī guá ū kok-tsióng bô-kāng ê hìng-tshù, hōo guá ê sing-ua̍h tsing-ka tsiok tsē kong-tshái!
@@ -10236,7 +10236,7 @@ hōo ta-ke kám-kak tsin pháinn-sè.
 Í-tsá koh tuà tsò-hué,
 guá lóng hiâm i tsām móo,
 tsit-tsūn guá tsiah liáu-kái,
-tsū án-ne,uánn-puânn tuì i ná-tshiūnn ū siánn-mih『致命的吸引力』,
+tsū án-ne,uánn-puânn tuì i ná-tshiūnn ū siánn-mih『』,
 tsú-hó tsiah tann-khì tshân--lí hōo tsò-khang-khuè ê lâng tsia̍h.
 íng-íng sī lāu-lâng gōng-tai tsìng siōng tsá tshut-hiān ê tsìng-thâu.
 sîng-kó huat-piáu Hit-kang,
